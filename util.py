@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @Time: 2020/3/12 16:45
 # @Author: Mars
 import torch
 import gensim
